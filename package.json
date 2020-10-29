@@ -1,0 +1,21 @@
+{
+  "name": "service-worker-starter",
+  "version": "1.0.0",
+  "description": "Simple web page as starting point for service worker development",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-sommer/service-worker-starter.git"
+  },
+  "author": "Jan Sommer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-sommer/service-worker-starter/issues"
+  },
+  "homepage": "https://github.com/j-sommer/service-worker-starter#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
