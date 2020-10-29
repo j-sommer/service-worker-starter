@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Service Worker Starter
 
 A simple web page written in plain HTML and vanilla Javascript. Can be used as a starting point for service worker development.
